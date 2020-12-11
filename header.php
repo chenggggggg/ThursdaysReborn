@@ -41,6 +41,9 @@
 				?>
 				<p class="site-description"><?php echo $chengods_theme_description; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped ?></p>
 			<?php endif; ?>
+
+			
+
 		</div><!-- .site-branding -->
 
 		<nav id="site-navigation" class="main-navigation">
